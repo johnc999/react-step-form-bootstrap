@@ -1,13 +1,13 @@
-### React Multi Step Form with Bootstrap styling
+### React Multi Step Form with Bootstrap Styling
 
 Two page React step form plus Summary page, including validation and Progress Bar, styled with Bootstrap.
 
 #### Install dependencies:
 
-npm i --save bootstrap
-npm i --save react-bootstrap
-npm i react-test-renderer
-npm i jest-dom
+npm i --save bootstrap  
+npm i --save react-bootstrap  
+npm i react-test-renderer  
+npm i jest-dom  
 
 #### Available Scripts
 
