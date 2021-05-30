@@ -1,0 +1,20 @@
+.container {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.page_header {
+  min-width: 650px;
+  padding-top: 50px;
+}
+
+.progress_bar_padding {
+  padding-top: 40px;
+}
+
+#page_2_continue {
+  margin-left: -25px;
+}
